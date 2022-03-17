@@ -2,10 +2,10 @@
 
 
 BackEnd:
-To run the project open terminal and type -> nodemon index.js
+To run the project open terminal and type -> nodemon index.js (and press enter)
 
 FronEnd:
 To run the project open terminal:
-npm install
-npm start
+npm install (and press enter)
+npm start (and press enter)
 
