@@ -1,0 +1,17 @@
+{
+  "name": "sample-code-project-color-picker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/wdio ./wdio.conf.js"
+  },
+  "author": "Ali Neaimy",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "morgan": "^1.10.0"
+  }
+}
